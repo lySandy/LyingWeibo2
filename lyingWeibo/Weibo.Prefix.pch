@@ -1,0 +1,21 @@
+//
+//  Weibo.Prefix.pch
+//  lyingWeibo
+//
+//  Created by 小木木 on 15/8/19.
+//  Copyright (c) 2015年 小木木. All rights reserved.
+//
+
+#ifndef lyingWeibo_Weibo_Prefix_pch
+#define lyingWeibo_Weibo_Prefix_pch
+
+#import "common.h"
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "UIViewExt.h"
+
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
